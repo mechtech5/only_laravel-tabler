@@ -1,1 +1,3 @@
-# laxyo-projects
+# Tabler template integration
+
+Folder Structure:
